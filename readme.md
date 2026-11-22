@@ -11,6 +11,9 @@
 
 # Helpers
 
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+
 ## bash - terminal
 
 - [helpers jenkins](./shell/helpers_jenkins.sh) Conjunto de comandos curl para gestionar jenkins
